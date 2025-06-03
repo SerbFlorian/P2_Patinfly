@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">P2_Patinfly</string>
+    <string name="app_name">Patinfly</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_bike_view_model">BikeViewModel</string>
+    <string name="title_activity_bike_list">BikeListActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_view_details">ViewDetailsActivity</string>
+    <string name="title_activity_rent">RentActivity</string>
+    <string name="title_activity_qr">QrActivity</string>
+    <string name="title_activity_system_plan">SystemPlanActivity</string>
+    <string name="title_activity_patinfly_app">PatinflyApp</string>
 </resources>

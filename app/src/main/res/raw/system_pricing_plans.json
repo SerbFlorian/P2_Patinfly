@@ -1,0 +1,41 @@
+{
+  "last_updated": "2023-07-17T13:34:13+02:00",
+  "ttl": 0,
+  "version": "3.1-RC",
+  "data": {
+    "plans": [
+      {
+        "plan_id": "plan2025",
+        "name": [
+          {
+            "text": "Patinfly Bike Pricing",
+            "language": "en"
+          }
+        ],
+        "currency": "EUR",
+        "price": 1.00,
+        "is_taxable": true,
+        "description": [
+          {
+            "text": "1€ unlock fee, 0€ per kilometer and 0.25 per minute.",
+            "language": "en"
+          }
+        ],
+        "per_km_pricing": [
+          {
+            "start": 0,
+            "rate": 0,
+            "interval": 1
+          }
+        ],
+        "per_min_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 1
+          }
+        ]
+      }
+    ]
+  }
+}

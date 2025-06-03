@@ -1,0 +1,165 @@
+{
+  "version": "1.0",
+  "bike": [
+    {
+      "uuid": "b1-123e4567-e89b-12d3-a456-426614174001",
+      "name": "Mountain Explorer",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Urban",
+        "type": "EB001"
+      },
+      "creation_date": "2024-02-27T12:34:56",
+      "last_maintenance_date": "2024-02-20T10:15:30",
+      "in_maintenance": false,
+      "is_active": true,
+      "is_deleted": false,
+      "battery_level": 20,
+      "meters": 1500
+    },
+    {
+      "uuid": "b2-223e4567-e89b-12d3-a456-426614174003",
+      "name": "Urban Commuter",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Urban",
+        "type": "EB001"
+      },
+      "creation_date": "2023-08-15T09:20:30",
+      "last_maintenance_date": "2024-01-10T14:00:00",
+      "in_maintenance": false,
+      "is_active": true,
+      "is_deleted": false,
+      "battery_level": 92,
+      "meters": 2300
+    },
+    {
+      "uuid": "b3-323e4567-e89b-12d3-a456-426614174005",
+      "name": "Speed Racer",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Urban",
+        "type": "EB001"
+      },
+      "creation_date": "2022-05-10T07:45:20",
+      "last_maintenance_date": "2023-12-05T11:30:00",
+      "in_maintenance": false,
+      "is_active": false,
+      "is_deleted": false,
+      "battery_level": 75,
+      "meters": 5600
+    },
+    {
+      "uuid": "b4-423e4567-e89b-12d3-a456-426614174007",
+      "name": "Trail Blazer",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Urban",
+        "type": "EB001"
+      },
+      "creation_date": "2021-11-30T18:15:10",
+      "last_maintenance_date": "2024-02-01T09:45:00",
+      "in_maintenance": true,
+      "is_active": false,
+      "is_deleted": false,
+      "battery_level": 60,
+      "meters": 4200
+    },
+    {
+      "uuid": "b5-523e4567-e89b-12d3-a456-426614174009",
+      "name": "Eco Ride",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Urban",
+        "type": "EB001"
+      },
+      "creation_date": "2023-02-14T16:10:00",
+      "last_maintenance_date": "2024-01-25T08:30:00",
+      "in_maintenance": false,
+      "is_active": true,
+      "is_deleted": false,
+      "battery_level": 100,
+      "meters": 3100
+    },
+    {
+      "uuid": "b6-623e4567-e89b-12d3-a456-426614174011",
+      "name": "Adventure Seeker",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Electric",
+        "type": "EB001"
+      },
+      "creation_date": "2022-07-21T13:25:00",
+      "last_maintenance_date": "2023-11-30T10:00:00",
+      "in_maintenance": false,
+      "is_active": false,
+      "is_deleted": false,
+      "battery_level": 80,
+      "meters": 6700
+    },
+    {
+      "uuid": "b7-723e4567-e89b-12d3-a456-426614174013",
+      "name": "BMX Pro",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Electric",
+        "type": "EB001"
+      },
+      "creation_date": "2020-10-05T15:40:30",
+      "last_maintenance_date": "2024-01-02T12:15:00",
+      "in_maintenance": false,
+      "is_active": true,
+      "is_deleted": false,
+      "battery_level": 50,
+      "meters": 8900
+    },
+    {
+      "uuid": "b8-823e4567-e89b-12d3-a456-426614174015",
+      "name": "Fat Tire Beast",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Electric",
+        "type": "EB001"
+      },
+      "creation_date": "2023-12-01T08:10:15",
+      "last_maintenance_date": null,
+      "in_maintenance": false,
+      "is_active": false,
+      "is_deleted": false,
+      "battery_level": 98,
+      "meters": 1200
+    },
+    {
+      "uuid": "b9-923e4567-e89b-12d3-a456-426614174017",
+      "name": "Cargo Hauler",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Electric",
+        "type": "EB001"
+      },
+      "creation_date": "2024-01-10T11:20:00",
+      "last_maintenance_date": "2024-02-20T14:45:00",
+      "in_maintenance": false,
+      "is_active": true,
+      "is_deleted": false,
+      "battery_level": 88,
+      "meters": 500
+    },
+    {
+      "uuid": "b10-023e4567-e89b-12d3-a456-426614174019",
+      "name": "Kid's Fun Ride",
+      "bike_type": {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Electric",
+        "type": "EB001"
+      },
+      "creation_date": "2023-05-15T10:00:00",
+      "last_maintenance_date": "2024-01-18T08:00:00",
+      "in_maintenance": false,
+      "is_active": true,
+      "is_deleted": false,
+      "battery_level": 95,
+      "meters": 800
+    }
+  ]
+}

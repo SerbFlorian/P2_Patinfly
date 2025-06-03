@@ -1,0 +1,9 @@
+{
+  "uuid": "123e4567-e89b-12d3-a456-426614174000",
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "hashed_password": "$2a$10$7aS.7xq9/9pJXQ6x3xQ9UOaQH6F6PdDklm8eSas9wq9FbO6uE1YiK",
+  "creation_date": "2024-02-27T12:34:56Z",
+  "last_connection": "2024-02-27T15:00:00Z",
+  "device_id": "ABC123XYZ789"
+}
